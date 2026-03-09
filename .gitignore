@@ -1,0 +1,10 @@
+# 打包文件
+*.skill
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 工作区
+workspace/
